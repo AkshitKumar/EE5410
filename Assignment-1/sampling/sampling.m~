@@ -22,9 +22,8 @@ for i=1:length(n)
     end
 end
 x_fft=fft(x);
-x_fft=abs(x_fft);
-
-
+disp(x1(1))
+disp(x_f)
 
 
 
